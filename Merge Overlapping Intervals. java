@@ -1,7 +1,7 @@
 // code start
 
 // { Driver Code Starts
-
+//Initial function Template for Java
 
 import java.util.*;
 import java.lang.*;
@@ -37,6 +37,7 @@ class GFG
 }
 // } Driver Code Ends
 
+//User function Template for Java
 
 class Solution
 {
